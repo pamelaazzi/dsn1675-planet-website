@@ -18,3 +18,31 @@ html {
   body {
     margin: 0;
   }
+
+  .img-flex {
+    width: 100%;
+    display: block;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 0;
+  }
+
+ .nav {
+   list-style-type: none;
+   margin: 0;
+ }
+
+  nav a {
+   text-decoration: none;
+   color: skyblue;
+ }
+
+ .masthead {
+   background-color: lightgrey;
+ }
+
+.planets {
+  width: 100%;
+}
