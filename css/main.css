@@ -26,12 +26,10 @@ html {
 
   h1 {
     text-align: center;
-    margin: 0;
   }
 
  .nav {
    list-style-type: none;
-   margin: 0;
  }
 
   nav a {
@@ -40,9 +38,22 @@ html {
  }
 
  .masthead {
-   background-color: lightgrey;
+   background-color: grey;
  }
 
 .planets {
   width: 100%;
+}
+
+@media only screen and (min-width:34em) {
+
+
+  .nav li {
+    display: inline-block;
+  }
+
+  ul {
+    text-align: center;
+  }
+
 }
