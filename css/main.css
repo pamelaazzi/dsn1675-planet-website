@@ -28,6 +28,11 @@ html {
     text-align: center;
   }
 
+h3 {
+  background-color: lightgrey; 
+}
+
+
  .nav {
    list-style-type: none;
  }
@@ -43,6 +48,22 @@ html {
 
 .planets {
   width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl, dd, figure,
+blockquote, details, hr,
+fieldset, pre, table {
+  margin: 0 0 1.5rem;
+}
+
+footer {
+  background-color: grey;
+  margin: 0;
+}
+
+.list {
+  background-color: lightgrey;
 }
 
 @media only screen and (min-width:34em) {
