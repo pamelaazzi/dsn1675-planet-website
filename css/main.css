@@ -29,12 +29,13 @@ html {
   }
 
 h3 {
-  background-color: lightgrey; 
+  background-color: lightgrey;
 }
 
 
  .nav {
    list-style-type: none;
+   margin: 0;
  }
 
   nav a {
