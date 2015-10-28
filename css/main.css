@@ -61,6 +61,13 @@ footer {
   margin: 0;
 }
 
+.box {
+  background-color: lightgrey;
+}
+
+.grey {
+  background-color: #ededed;
+}
 
 @media only screen and (min-width:34em) {
 
